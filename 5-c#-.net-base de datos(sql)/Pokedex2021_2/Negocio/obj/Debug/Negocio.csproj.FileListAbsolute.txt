@@ -1,0 +1,37 @@
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\Nueva carpeta\PokeDex_2(Parte1)\Pokedex2021_2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas inicial)\Pokedex2021_2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas Acceso a datos)\Pokedex2021_2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.pdb
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Negocio.dll
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Negocio.pdb
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Dominio.dll
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\bin\Debug\Dominio.pdb
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.dll
+C:\Users\USUARIO\Downloads\Prog3_1c_2021-master\PokeDex\PokeDex_(parte2)_capas inicial\PokeDex_2_parte2(capas version final )\Pokedex2021_2\Negocio\obj\Debug\Negocio.pdb

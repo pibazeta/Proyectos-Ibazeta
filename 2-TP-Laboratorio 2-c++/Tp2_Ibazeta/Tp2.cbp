@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Tp2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Tp2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="DTO" />
+					<Add directory="DAO" />
+					<Add directory="BL" />
+					<Add directory="View" />
+					<Add directory="Validaciones" />
+					<Add directory="Cadenas" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Tp2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="DTO" />
+					<Add directory="DAO" />
+					<Add directory="BL" />
+					<Add directory="View" />
+					<Add directory="Validaciones" />
+					<Add directory="Cadenas" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BL/clsAlumnoBL.cpp" />
+		<Unit filename="BL/clsAlumnoBL.h" />
+		<Unit filename="BL/clsMatXAlumBL.cpp" />
+		<Unit filename="BL/clsMatXAlumBL.h" />
+		<Unit filename="BL/clsMateriaBL.cpp" />
+		<Unit filename="BL/clsMateriaBL.h" />
+		<Unit filename="DAO/clsAlumnoDAO.cpp" />
+		<Unit filename="DAO/clsAlumnoDAO.h" />
+		<Unit filename="DAO/clsMatXAlumDAO.cpp" />
+		<Unit filename="DAO/clsMatXAlumDAO.h" />
+		<Unit filename="DAO/clsMateriaDAO.cpp" />
+		<Unit filename="DAO/clsMateriaDAO.h" />
+		<Unit filename="DTO/clsAlumnoDTO.cpp" />
+		<Unit filename="DTO/clsAlumnoDTO.h" />
+		<Unit filename="DTO/clsMatXAlumDTO.cpp" />
+		<Unit filename="DTO/clsMatXAlumDTO.h" />
+		<Unit filename="DTO/clsMateriaDTO.cpp" />
+		<Unit filename="DTO/clsMateriaDTO.h" />
+		<Unit filename="Validaciones/clsCadenas.cpp" />
+		<Unit filename="Validaciones/clsCadenas.h" />
+		<Unit filename="Validaciones/clsValidaciones.cpp" />
+		<Unit filename="Validaciones/clsValidaciones.h" />
+		<Unit filename="View/clsAlumnoView.cpp" />
+		<Unit filename="View/clsAlumnoView.h" />
+		<Unit filename="View/clsFAQ.cpp" />
+		<Unit filename="View/clsFAQ.h" />
+		<Unit filename="View/clsMainView.cpp" />
+		<Unit filename="View/clsMainView.h" />
+		<Unit filename="View/clsMatXAlumView.cpp" />
+		<Unit filename="View/clsMatXAlumView.h" />
+		<Unit filename="View/clsMateriaView.cpp" />
+		<Unit filename="View/clsMateriaView.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1479063288 source:c:\users\ibazeta\desktop\a\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1478624427 c:\users\ibazeta\desktop\a\tp1\funciones.h
+
+1479067785 c:\users\ibazeta\desktop\a\tp1\extracciones.h
+
+1479095445 c:\users\ibazeta\desktop\a\tp1\reportes.h
+
+1479612125 source:c:\users\ibazeta\desktop\tp\14_11\a\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1478624427 c:\users\ibazeta\desktop\tp\14_11\a\tp1\funciones.h
+
+1479067785 c:\users\ibazeta\desktop\tp\14_11\a\tp1\extracciones.h
+
+1479768762 c:\users\ibazeta\desktop\tp\14_11\a\tp1\reportes.h
+
+1480792856 source:c:\users\ibazeta\desktop\tp\21_11(todo ok)\14_11\a\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1478624427 c:\users\ibazeta\desktop\tp\21_11(todo ok)\14_11\a\tp1\funciones.h
+
+1480016572 c:\users\ibazeta\desktop\tp\21_11(todo ok)\14_11\a\tp1\extracciones.h
+
+1480794032 c:\users\ibazeta\desktop\tp\21_11(todo ok)\14_11\a\tp1\reportes.h
+
+1480792854 c:\users\ibazeta\desktop\tp\21_11(todo ok)\14_11\a\tp1\cargardatos.h
+
+1480777960 source:c:\users\administrador\desktop\lunes\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1480942695 c:\users\administrador\desktop\lunes\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\cargardatos.h
+
+1480777960 c:\users\administrador\desktop\lunes\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\funciones.h
+
+1480777960 c:\users\administrador\desktop\lunes\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\extracciones.h
+
+1480944075 c:\users\administrador\desktop\lunes\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\reportes.h
+
+1480777960 source:c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1481051303 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\cargardatos.h
+
+1480777960 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\funciones.h
+
+1480777960 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\extracciones.h
+
+1481051629 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\tp1\reportes.h
+
+1481245479 source:c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\06_12_2016\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1481236103 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\06_12_2016\tp1\cargardatos.h
+
+1481235779 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\06_12_2016\tp1\funciones.h
+
+1481245463 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\06_12_2016\tp1\extracciones.h
+
+1481245585 c:\users\ibazeta\desktop\tp\el que di para regularizar\(para lunes)03_12_2016\21_11(todo ok)_imf4y5_y_cargaddatos\14_11\a\06_12_2016\tp1\reportes.h
+
+1481245479 source:c:\users\matias\desktop\tp_1\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1481262334 c:\users\matias\desktop\tp_1\tp1\cargardatos.h
+
+1481235779 c:\users\matias\desktop\tp_1\tp1\funciones.h
+
+1481245463 c:\users\matias\desktop\tp_1\tp1\extracciones.h
+
+1481262334 c:\users\matias\desktop\tp_1\tp1\reportes.h
+
+1481245479 source:c:\users\ibazeta\downloads\tp_1\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1481262334 c:\users\ibazeta\downloads\tp_1\tp1\cargardatos.h
+
+1481235779 c:\users\ibazeta\downloads\tp_1\tp1\funciones.h
+
+1481245463 c:\users\ibazeta\downloads\tp_1\tp1\extracciones.h
+
+1481298085 c:\users\ibazeta\downloads\tp_1\tp1\reportes.h
+
+1481478020 source:c:\users\agust\onedrive\escritorio\proyectos\tp_laboratorio 1\tp1\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<windows.h>
+	"CargarDatos.h"
+	"Funciones.h"
+	"Extracciones.h"
+	"Reportes.h"
+
+1481478020 c:\users\agust\onedrive\escritorio\proyectos\tp_laboratorio 1\tp1\cargardatos.h
+
+1481478020 c:\users\agust\onedrive\escritorio\proyectos\tp_laboratorio 1\tp1\funciones.h
+
+1481478020 c:\users\agust\onedrive\escritorio\proyectos\tp_laboratorio 1\tp1\extracciones.h
+
+1481478020 c:\users\agust\onedrive\escritorio\proyectos\tp_laboratorio 1\tp1\reportes.h
+

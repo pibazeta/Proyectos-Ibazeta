@@ -1,0 +1,17 @@
+Este modelo considera la base de datos como una colección de relaciones. 
+De manera simple, una relación representa una tabla que no es más que un conjunto de filas,
+ cada fila es un conjunto de campos y cada campo representa un valor que interpretado describe el mundo real.
+
+
+
+[VIDEO] - Creación de BBDD y tablasURL
+https://www.youtube.com/watch?v=EJ4Zxiq2kWo
+
+
+
+[VIDEO] - RestriccionesURL
+
+https://www.youtube.com/watch?v=zZwU7D1a0uA
+
+
+

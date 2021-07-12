@@ -1,0 +1,1760 @@
+# depslib dependency file v1.0
+1573416508 source:c:\users\ibazeta\desktop\probando eliminar\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573422320 c:\users\ibazeta\desktop\probando eliminar\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573422314 c:\users\ibazeta\desktop\probando eliminar\dto\clsmatxalumdto.h
+
+1573422316 c:\users\ibazeta\desktop\probando eliminar\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573422310 c:\users\ibazeta\desktop\probando eliminar\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573422320 c:\users\ibazeta\desktop\probando eliminar\dto\clsalumnodto.h
+	<cstring>
+
+1573422310 c:\users\ibazeta\desktop\probando eliminar\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573422310 c:\users\ibazeta\desktop\probando eliminar\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+
+1573422312 c:\users\ibazeta\desktop\probando eliminar\dto\clsmateriadto.h
+	<cstring>
+
+1573422306 c:\users\ibazeta\desktop\probando eliminar\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573422312 c:\users\ibazeta\desktop\probando eliminar\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573422314 c:\users\ibazeta\desktop\probando eliminar\validaciones\clscadenas.h
+	<cstring>
+
+1573416182 source:c:\users\ibazeta\desktop\probando eliminar\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573422316 c:\users\ibazeta\desktop\probando eliminar\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+
+1573526225 source:c:\users\ibazeta\desktop\tp2\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573524228 c:\users\ibazeta\desktop\tp2\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+
+1573507618 c:\users\ibazeta\desktop\tp2\dto\clsalumnodto.h
+	<cstring>
+
+1573524877 c:\users\ibazeta\desktop\tp2\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573524880 c:\users\ibazeta\desktop\tp2\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+
+1573523087 source:c:\users\ibazeta\desktop\tp2\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573507618 c:\users\ibazeta\desktop\tp2\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573507626 c:\users\ibazeta\desktop\tp2\dto\clsmatxalumdto.h
+
+1573522892 source:c:\users\ibazeta\desktop\tp2\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573507626 c:\users\ibazeta\desktop\tp2\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573507622 c:\users\ibazeta\desktop\tp2\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573507622 c:\users\ibazeta\desktop\tp2\dto\clsmateriadto.h
+	<cstring>
+
+1573523345 c:\users\ibazeta\desktop\tp2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573507628 c:\users\ibazeta\desktop\tp2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573507626 c:\users\ibazeta\desktop\tp2\validaciones\clscadenas.h
+	<cstring>
+
+1573524857 source:c:\users\ibazeta\desktop\tp2\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573523127 source:c:\users\ibazeta\desktop\tp2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573507620 source:c:\users\ibazeta\desktop\tp2\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573524880 source:c:\users\ibazeta\desktop\tp2\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573523059 source:c:\users\ibazeta\desktop\tp2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573523169 source:c:\users\ibazeta\desktop\tp2\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573507622 source:c:\users\ibazeta\desktop\tp2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573507622 source:c:\users\ibazeta\desktop\tp2\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573507614 source:c:\users\ibazeta\desktop\tp2\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573507626 c:\users\ibazeta\desktop\tp2\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573507626 c:\users\ibazeta\desktop\tp2\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573507622 c:\users\ibazeta\desktop\tp2\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573507626 source:c:\users\ibazeta\desktop\tp2\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573530560 source:c:\users\ibazeta\desktop\tp2\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573507626 source:c:\users\ibazeta\desktop\tp2\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573526162 source:c:\users\ibazeta\desktop\tp2\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573570204 source:c:\users\pibazeta\desktop\tp2\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573570420 c:\users\pibazeta\desktop\tp2\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573561890 c:\users\pibazeta\desktop\tp2\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573552440 c:\users\pibazeta\desktop\tp2\dto\clsalumnodto.h
+	<cstring>
+
+1573552438 source:c:\users\pibazeta\desktop\tp2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573552438 c:\users\pibazeta\desktop\tp2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573552440 c:\users\pibazeta\desktop\tp2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573552440 c:\users\pibazeta\desktop\tp2\dto\clsmateriadto.h
+	<cstring>
+
+1573552798 c:\users\pibazeta\desktop\tp2\validaciones\clscadenas.h
+	<cstring>
+
+1573570433 source:c:\users\pibazeta\desktop\tp2\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573570209 c:\users\pibazeta\desktop\tp2\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573570251 c:\users\pibazeta\desktop\tp2\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573552440 c:\users\pibazeta\desktop\tp2\dto\clsmatxalumdto.h
+
+1573561925 source:c:\users\pibazeta\desktop\tp2\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573552440 source:c:\users\pibazeta\desktop\tp2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573570325 source:c:\users\pibazeta\desktop\tp2\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573552438 source:c:\users\pibazeta\desktop\tp2\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573552440 source:c:\users\pibazeta\desktop\tp2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573552440 source:c:\users\pibazeta\desktop\tp2\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573564137 source:c:\users\pibazeta\desktop\tp2\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573552800 c:\users\pibazeta\desktop\tp2\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573578818 c:\users\pibazeta\desktop\tp2\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573552798 c:\users\pibazeta\desktop\tp2\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573578848 c:\users\pibazeta\desktop\tp2\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573570396 c:\users\pibazeta\desktop\tp2\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573552440 source:c:\users\pibazeta\desktop\tp2\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573552798 source:c:\users\pibazeta\desktop\tp2\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573579487 source:c:\users\pibazeta\desktop\tp2\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573552800 source:c:\users\pibazeta\desktop\tp2\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573578666 source:c:\users\pibazeta\desktop\tp2\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573571312 source:c:\users\pibazeta\desktop\tp2\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573590804 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573590804 c:\users\ibazeta\desktop\nueva carpeta\tp2\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573590820 c:\users\ibazeta\desktop\nueva carpeta\tp2\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573590816 c:\users\ibazeta\desktop\nueva carpeta\tp2\dto\clsalumnodto.h
+	<cstring>
+
+1573590820 c:\users\ibazeta\desktop\nueva carpeta\tp2\validaciones\clscadenas.h
+	<cstring>
+
+1573590806 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573590808 c:\users\ibazeta\desktop\nueva carpeta\tp2\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573590808 c:\users\ibazeta\desktop\nueva carpeta\tp2\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573590812 c:\users\ibazeta\desktop\nueva carpeta\tp2\dto\clsmateriadto.h
+	<cstring>
+
+1573590806 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573590822 c:\users\ibazeta\desktop\nueva carpeta\tp2\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573590808 c:\users\ibazeta\desktop\nueva carpeta\tp2\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573590816 c:\users\ibazeta\desktop\nueva carpeta\tp2\dto\clsmatxalumdto.h
+
+1573590820 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573590808 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573590808 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573590808 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573590810 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573590820 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573590806 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573590816 c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573590818 c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573590818 c:\users\ibazeta\desktop\nueva carpeta\tp2\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573590816 c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573590818 c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573590820 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573590814 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573600688 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573590818 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573602754 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573590818 source:c:\users\ibazeta\desktop\nueva carpeta\tp2\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573888914 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573888914 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573888918 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573888922 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1573888924 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+
+1573888922 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573888922 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1573888924 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1573888924 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573888924 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1573888924 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573888926 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573888926 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1574037504 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+
+1574035640 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+	"clsFAQ.h"
+
+1573888930 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574024120 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1574024134 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573888926 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573888930 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573888918 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573888920 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573590804 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573590804 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573606481 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573590816 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1573590820 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+
+1573605545 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573590808 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573606500 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573590812 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1573605588 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573590822 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573606531 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573590816 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1573605730 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573605846 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573605895 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573590808 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573590810 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573590820 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573605905 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573590816 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573606667 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573590818 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573590816 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573606639 c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573590820 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573590814 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573590818 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573609292 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573609545 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573609175 source:c:\users\ibazeta\desktop\tp2_ibazeta\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573622228 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573622232 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573622232 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573622234 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1573622238 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+
+1573622234 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573622230 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573622236 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573622236 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1573622230 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573622232 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573622236 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573622238 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1573622232 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573622236 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573622236 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573622236 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573622234 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573622236 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573622226 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573622240 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573622242 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573622238 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573622240 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573622244 c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573622236 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573622240 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573622240 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573622240 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573622240 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573774929 source:c:\users\ibazeta\desktop\entregar_tp2\tp2_ibazeta\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573792864 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573792866 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573792862 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573792874 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1573792876 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+
+1573792870 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573792870 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573792866 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573792870 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1573792870 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573792868 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573792864 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573792874 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1573792868 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573792862 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573792866 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573792868 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573792870 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+
+1573792874 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573792862 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573792882 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573792882 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573792876 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573792886 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573792894 c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573792874 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573792876 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573792878 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573792888 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573792882 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573826931 source:c:\users\pibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1573841330 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573841332 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573841336 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573841336 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1573841338 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+
+1573865763 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573866092 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1573865835 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573841338 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1573841334 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573841334 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573841336 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573841338 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1573841334 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573866371 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573841336 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573841336 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573875595 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1573841338 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1573841332 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573841342 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+
+1573841344 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573841340 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573841340 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573841344 c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573841338 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573841340 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573841340 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573841342 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+
+1573875658 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573841342 source:c:\users\ibazeta\desktop\tp2_ibazeta_modificado_eliminado\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1574024256 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1573888916 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573888918 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1573888920 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573888912 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	"View/clsMainView.h"
+
+1573888926 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573888928 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573888930 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1574025179 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1574033603 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\faq\clsfaq.h
+
+1574036286 c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsfaq.h
+	<iostream>
+	<cstdlib>
+
+1574037106 source:c:\users\ibazeta\desktop\nueva carpeta\tp2_ibazeta\view\clsfaq.cpp
+	<clsFAQ.h>
+
+1573888914 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1573888914 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1573888918 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573888922 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1574041385 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+	<windows.h>
+
+1574024256 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1574024120 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1574024134 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1573888924 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1573888916 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1573888918 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1573888920 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1573888924 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1573888918 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1574025179 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1573888920 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1573888922 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1573888922 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1573888924 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1574041356 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1573888926 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1573888926 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1573888926 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1573888926 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574044369 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsfaq.cpp
+	<clsFAQ.h>
+	"clsCadenas.h"
+
+1574036286 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsfaq.h
+	<iostream>
+	<cstdlib>
+
+1574041824 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+	"clsCadenas.h"
+
+1574039191 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+	"clsFAQ.h"
+
+1573888930 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1573888930 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1573888928 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1573888930 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1574041192 source:c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"View/clsMainView.h"
+
+1574039446 c:\users\ibazeta\desktop\tp2 con faq\tp2_ibazeta\gotoxy.h
+
+1574056574 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1574056578 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1574056588 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574056588 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1574056586 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+	<windows.h>
+
+1574056576 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1574056576 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1574056584 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574056590 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1574056576 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1574056576 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1574056586 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1574056590 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1574056582 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1574056584 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1574056590 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1574056586 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1574056584 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1574056588 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1574056572 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"View/clsMainView.h"
+
+1574056604 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+	"clsFAQ.h"
+
+1574056606 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574056586 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1574056586 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574056590 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1574785577 c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsfaq.h
+	<iostream>
+	<cstdlib>
+
+1574056590 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1574056586 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1574056586 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1574866334 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsfaq.cpp
+	<clsFAQ.h>
+	"clsCadenas.h"
+
+1574056588 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+	"clsCadenas.h"
+
+1574056590 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1574056606 source:c:\users\pibazeta\desktop\tp2\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1574877588 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1574877590 e:\tp2 (gotoxy terminado)\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1574877594 e:\tp2 (gotoxy terminado)\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574877594 e:\tp2 (gotoxy terminado)\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1574877596 e:\tp2 (gotoxy terminado)\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+	<windows.h>
+
+1574877592 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1574877590 e:\tp2 (gotoxy terminado)\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1574877590 e:\tp2 (gotoxy terminado)\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574877594 e:\tp2 (gotoxy terminado)\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1574877588 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1574877592 e:\tp2 (gotoxy terminado)\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1574877594 e:\tp2 (gotoxy terminado)\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1574877596 e:\tp2 (gotoxy terminado)\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1574877592 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1574877594 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1574877592 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1574877594 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1574877594 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1574877596 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1574877588 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"View/clsMainView.h"
+
+1574877600 e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+	"clsFAQ.h"
+
+1574877600 e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574877596 e:\tp2 (gotoxy terminado)\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1574877598 e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574877602 e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1574877600 e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsfaq.h
+	<iostream>
+	<cstdlib>
+
+1574877596 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1574877598 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1574877598 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1574877598 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsfaq.cpp
+	<clsFAQ.h>
+	"clsCadenas.h"
+
+1574877600 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+	"clsCadenas.h"
+
+1574877600 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1574877600 source:e:\tp2 (gotoxy terminado)\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1574877588 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1574877590 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1574877594 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574877594 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1574877596 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+	<windows.h>
+
+1574877592 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1574877590 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1574877590 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574877594 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1574877588 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1574877592 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1574877594 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1574877596 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1574877592 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1574877594 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1574877592 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1574877594 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1574877594 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1574877596 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1574877588 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"View/clsMainView.h"
+
+1574877600 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+	"clsFAQ.h"
+
+1574877600 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574877596 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1574877598 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574877602 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1574877600 c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsfaq.h
+	<iostream>
+	<cstdlib>
+
+1574877596 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1574877598 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1574877598 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsfaq.cpp
+	<clsFAQ.h>
+	"clsCadenas.h"
+
+1574877600 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+	"clsCadenas.h"
+
+1574877600 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1575464262 source:c:\users\agust\desktop\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+
+1574877588 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsalumnobl.cpp
+	"clsAlumnoBL.h"
+
+1574877590 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsalumnobl.h
+	"../DAO/clsAlumnoDAO.h"
+	"../DTO/clsAlumnoDTO.h"
+
+1574877594 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsalumnodao.h
+	<cstdio>
+	"../DTO/clsAlumnoDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574877594 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsalumnodto.h
+	<cstring>
+
+1574877596 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clscadenas.h
+	<cstring>
+	<windows.h>
+
+1574877592 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmateriabl.cpp
+	"clsMateriaBL.h"
+
+1574877590 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmateriabl.h
+	"../DAO/clsMateriaDAO.h"
+	"../DTO/clsMateriaDTO.h"
+
+1574877590 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmateriadao.h
+	<cstdio>
+	"../DTO/clsMateriaDTO.h"
+	"../Validaciones/clsCadenas.h"
+
+1574877594 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmateriadto.h
+	<cstring>
+
+1574877588 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmatxalumbl.cpp
+	"clsMatXAlumBL.h"
+
+1574877592 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\bl\clsmatxalumbl.h
+	"../DAO/clsMatXAlumDAO.h"
+	"../DTO/clsMatXAlumDTO.h"
+
+1574877594 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmatxalumdao.h
+	<cstdio>
+	"../DTO/clsMatXAlumDTO.h"
+
+1574877596 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmatxalumdto.h
+
+1574877592 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsalumnodao.cpp
+	"clsAlumnoDAO.h"
+
+1574877594 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmateriadao.cpp
+	"clsMateriaDAO.h"
+
+1574877592 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dao\clsmatxalumdao.cpp
+	"clsMatXAlumDAO.h"
+
+1574877594 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsalumnodto.cpp
+	"clsAlumnoDTO.h"
+	"clsAlumnoDAO.h"
+
+1574877594 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmateriadto.cpp
+	"clsMateriaDTO.h"
+	"clsMateriaBL.h"
+
+1574877596 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\dto\clsmatxalumdto.cpp
+	"clsMatXAlumDTO.h"
+
+1574877588 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	"View/clsMainView.h"
+
+1574877600 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmainview.h
+	<iostream>
+	<cstdlib>
+	"clsMateriaView.h"
+	"clsAlumnoView.h"
+	"clsMatXAlumView.h"
+	"clsFAQ.h"
+
+1574877600 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmateriaview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574877596 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clsvalidaciones.h
+	<iostream>
+
+1574877598 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsalumnoview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../Validaciones/clsValidaciones.h"
+
+1574877602 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmatxalumview.h
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"../DTO/clsMatXAlumDTO.h"
+	"../BL/clsMatXAlumBL.h"
+	"../DTO/clsAlumnoDTO.h"
+	"../BL/clsAlumnoBL.h"
+	"../DTO/clsMateriaDTO.h"
+	"../BL/clsMateriaBL.h"
+
+1574877600 c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsfaq.h
+	<iostream>
+	<cstdlib>
+
+1574877596 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clscadenas.cpp
+	"clsCadenas.h"
+
+1574877598 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\validaciones\clsvalidaciones.cpp
+	"clsValidaciones.h"
+
+1575464324 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsalumnoview.cpp
+	"clsAlumnoView.h"
+
+1574877598 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsfaq.cpp
+	<clsFAQ.h>
+	"clsCadenas.h"
+
+1574877600 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmainview.cpp
+	"clsMainView.h"
+	"clsCadenas.h"
+
+1574877600 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmateriaview.cpp
+	"clsMateriaView.h"
+
+1575464262 source:c:\users\agust\onedrive\escritorio\tp2_ibazeta pablo agustin\tp2_ibazeta\view\clsmatxalumview.cpp
+	"clsMatXAlumView.h"
+

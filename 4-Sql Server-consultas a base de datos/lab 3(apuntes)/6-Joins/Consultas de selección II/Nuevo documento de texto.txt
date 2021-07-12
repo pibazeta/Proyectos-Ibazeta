@@ -1,0 +1,7 @@
+
+
+Mediante el uso de las consultas de selección vamos a poder obtener datos de nuestras tablas. Además, 
+podremos filtrar la cantidad de registros del listado resultante mediante condiciones.
+
+
+
